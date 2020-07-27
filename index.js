@@ -36,3 +36,10 @@ function getRemainder(x, y) {
 function isEven(num) {
   //  look up javascript operators
 }
+
+let string = "some long text about stuff";
+function maxCharacter(str) {
+  // use for loop
+  // dont use this str.length
+}
+maxCharacter(string);
