@@ -43,3 +43,24 @@ function maxCharacter(str) {
   // dont use this str.length
 }
 maxCharacter(string);
+
+//  If num is divisible by 3 return 'fizz'.
+// If num is divisible by 5 return 'buzz'.
+// If num is divisible by 3 & 5 return 'fizzbuzz'.
+// Otherwise return num.
+
+function fizzBuzz(num) {}
+fizzBuzz(7);
+
+// Return the first item from arr.
+
+function returnFirst(arr) {}
+
+// numbers is an array of integers.  Find and return the largest integer.
+
+function largestNumber(numbers) {}
+
+// Write a function called sortString that returns a passed string with letters in alphabetical order.
+
+function sortString(str) {}
+sortString("zycxbwa");
